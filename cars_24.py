@@ -5,7 +5,6 @@ import pickle
 
 
 st.title("Car Price Prediction App")
-
 # I want to take 4 inputs from the user
 # Fuel type, Transmission type, engine power, seats
 
